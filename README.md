@@ -59,10 +59,10 @@
 <table>
   <tr>
     <td width="50%">
-      <h3>📊 Exploratory Data Analysis</h3>
-      <p>End-to-end EDA project — data cleaning, handling missing values, and visualizing trends and correlations to derive actionable insights.</p>
-      <p><strong>Tools:</strong> Python · Pandas · Matplotlib · Seaborn</p>
-      <a href="#">View Project →</a>
+<h3>📊 Restaurant Sales Analysis</h3>
+<p>Analyzed 254 restaurant transactions across 5 cities to uncover insights on product popularity, payment behavior, manager performance, and revenue trends. Includes data cleaning, statistical summary, and 15+ visualizations.</p>
+<p><strong>Tools:</strong> Python · Pandas · Matplotlib · Seaborn</p>
+<a href="https://github.com/yasirurashmin/restaurant-sales-analysis">View Project →</a>
     </td>
     <td width="50%">
       <h3>📈 Business Performance Dashboard</h3>
