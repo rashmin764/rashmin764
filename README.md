@@ -1,8 +1,7 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f4e79,100:2e75b6&height=200&section=header&text=Yasiru%20Rashmin&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Aspiring%20Data%20Analyst&descSize=20&descAlignY=58&descColor=a8d4f5"/>
 <div align="center">
 
 <!-- Animated Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f4e79,100:2e75b6&height=200&section=header&text=Yasiru%20Rashmin&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Aspiring%20Data%20Analyst&descSize=20&descAlignY=58&descColor=a8d4f5"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:003300,100:006600&height=200&section=header&text=Yasiru%20Rashmin&fontSize=50&fontColor=00ff00&fontAlignY=38&desc=Aspiring%20Data%20Analyst&descSize=20&descAlignY=58&descColor=66ff66"/>
 
 <!-- Typing Animation -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E75B6&center=true&vCenter=true&width=600&lines=Aspiring+Data+Analyst;Python+%7C+SQL+%7C+Power+BI;Finding+the+story+behind+the+numbers+📊)](https://git.io/typing-svg)
@@ -101,7 +100,5 @@ I'm always open to collaborating on data projects, discussing analytics, or just
 
 <br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2e75b6,50:1f4e79,100:0d1117&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:006600,50:003300,100:000000&height=120&section=footer"/>
 
-</div>
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2e75b6,50:1f4e79,100:0d1117&height=120&section=footer"/>
