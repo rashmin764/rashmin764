@@ -71,9 +71,9 @@
 <p><strong>Tools:</strong> Python · Pandas · Prophet · Matplotlib · Seaborn · NumPy</p>
 <a href="https://github.com/rashmin764/Superstore-Sales-Analysis-and-Forecasting">View Project →</a>
     </td>
-  </tr>
-  <tr>
-    //<td width="50%">
+  <!-- </tr>
+    <tr>
+    <td width="50%">
       <h3>🗄️ SQL Data Exploration</h3>
       <p>Complex SQL queries using JOINs, window functions, and subqueries to extract business insights and analyze customer behavior and revenue patterns.</p>
       <p><strong>Tools:</strong> SQL · MySQL</p>
@@ -85,7 +85,7 @@
       <p><strong>Tools:</strong> Excel · Data Reporting</p>
       <a href="#">View Project →</a>
     </td>
-  </tr>//
+  </tr> --!>
 </table>
 
 ---
