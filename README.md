@@ -1,3 +1,4 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f4e79,100:2e75b6&height=200&section=header&text=Yasiru%20Rashmin&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Aspiring%20Data%20Analyst&descSize=20&descAlignY=58&descColor=a8d4f5"/>
 <div align="center">
 
 <!-- Animated Header -->
@@ -103,3 +104,4 @@ I'm always open to collaborating on data projects, discussing analytics, or just
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2e75b6,50:1f4e79,100:0d1117&height=120&section=footer"/>
 
 </div>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2e75b6,50:1f4e79,100:0d1117&height=120&section=footer"/>
