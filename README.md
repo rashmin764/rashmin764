@@ -1,6 +1,6 @@
 <div align="center">
 <!-- Animated Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0221,50:3d0b6e,100:f72585&height=200&section=header&text=Yasiru%20Rashmin&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Aspiring%20Data%20Analyst&descSize=20&descAlignY=58&descColor=f9c6e0"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:003333,100:006666&height=200&section=header&text=Yasiru%20Rashmin&fontSize=50&fontColor=00ffff&fontAlignY=38&desc=Aspiring%20Data%20Analyst&descSize=20&descAlignY=58&descColor=80ffff"/>
   
 <!-- Typing Animation -->
 <!-- Typing Animation -->
