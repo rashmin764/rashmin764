@@ -1,8 +1,8 @@
 <div align="center">
-
 <!-- Animated Header -->
-[<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:003300,100:006600&height=200&section=header&text=Yasiru%20Rashmin&fontSize=50&fontColor=00ff00&fontAlignY=38&desc=Aspiring%20Data%20Analyst&descSize=20&descAlignY=58&descColor=66ff66"/>](https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:003333,100:006666&height=200&section=header&text=Yasiru%20Rashmin&fontSize=50&fontColor=00ffff&fontAlignY=38&desc=Aspiring%20Data%20Analyst&descSize=20&descAlignY=58&descColor=80ffff)
-
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:003333,100:006666&height=200&section=header&text=Yasiru%20Rashmin&fontSize=50&fontColor=00ffff&fontAlignY=38&desc=Aspiring%20Data%20Analyst&descSize=20&descAlignY=58&descColor=80ffff"/>
+  
+<!-- Typing Animation -->
 <!-- Typing Animation -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E75B6&center=true&vCenter=true&width=600&lines=Aspiring+Data+Analyst;Python+%7C+SQL+%7C+Power+BI;Finding+the+story+behind+the+numbers+📊)](https://git.io/typing-svg)
 
