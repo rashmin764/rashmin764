@@ -101,5 +101,5 @@ I'm always open to collaborating on data projects, discussing analytics, or just
 
 <br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:006600,50:003300,100:000000&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2e75b6,50:1f4e79,100:0d1117&height=120&section=footer"/>
 
