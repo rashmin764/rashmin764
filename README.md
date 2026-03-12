@@ -86,7 +86,20 @@
       <a href="#">View Project →</a>
     </td>
   </tr> --!>
-</table>
+
+  </table>
+
+---
+
+## 📄 Resume
+
+<div align="center">
+
+Interested in working together? Download my latest CV below!
+
+[![Download CV](https://img.shields.io/badge/⬇️%20Download%20My%20CV-1F4E79?style=for-the-badge&logo=microsoftword&logoColor=white)](https://github.com/rashmin764/rashmin764/blob/main/Yasiru_Rashmin_Resume.pdf)
+
+</div>
 
 ---
 
