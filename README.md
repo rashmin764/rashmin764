@@ -66,10 +66,10 @@
 <a href="https://github.com/rashmin764/Restaurant-Sales-Analysis-EDA-">View Project →</a> 
     </td>
     <td width="50%">
-      <h3>📈 Business Performance Dashboard</h3>
-      <p>Interactive Power BI dashboard with KPI cards, time-series charts, and slicers to visualize business metrics across regions and time periods.</p>
-      <p><strong>Tools:</strong> Power BI · DAX · Excel</p>
-      <a href="#">View Project →</a>
+<h3>📈 Superstore Sales Analysis & Forecasting</h3>
+<p>Analyzed 9,994 retail transactions across 4 regions and 49 states to uncover sales trends by category, segment, and geography. Built a 12-month sales forecast using Facebook Prophet to support inventory planning and marketing strategy.</p>
+<p><strong>Tools:</strong> Python · Pandas · Prophet · Matplotlib · Seaborn · NumPy</p>
+<a href="https://github.com/rashmin764/Superstore-Sales-Analysis-and-Forecasting">View Project →</a>
     </td>
   </tr>
   <tr>
