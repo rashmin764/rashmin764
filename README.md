@@ -74,42 +74,101 @@
 </table>
 
 ---
+## 🎨 Graphic Design Portfolio  
 
-## 🎨 Graphic Design Portfolio
+<div align="center">
+Showcasing creative work focused on branding, marketing, and visual storytelling.
+</div>
+
+<br/>
 
 <table>
   <tr>
     <td width="50%">
-<h3>🎯 University Club & Event Branding</h3>
-<p>Volunteer graphic design work for SLIIT university clubs and events. Created event posters, social media graphics, and promotional materials that increased engagement and event visibility.</p>
-<p><strong>Tools:</strong> Adobe Illustrator · Photoshop · Canva</p>
-<a href="#">View Portfolio →</a>
+      <h3>🎯 University Club & Event Branding</h3>
+      <p>
+      Designed posters, social media creatives, and promotional materials for university clubs and events at SLIIT. 
+      Improved event engagement and visibility through eye-catching and strategic visual design.
+      </p>
+      <p><strong>Highlights:</strong></p>
+      <ul>
+        <li>Event posters & digital campaigns</li>
+        <li>Social media content design</li>
+        <li>Consistent branding across events</li>
+      </ul>
+      <p><strong>Tools:</strong> Adobe Illustrator · Photoshop · Canva</p>
+      <a href="YOUR_PORTFOLIO_LINK_HERE">🔗 View Designs →</a>
     </td>
+
     <td width="50%">
-<h3>🏆 Rotaract Club Visual Identity</h3>
-<p>Designed promotional materials and social media content for the Rotaract Club as a committee member. Developed cohesive visual branding across multiple campaigns and initiatives.</p>
-<p><strong>Tools:</strong> Adobe Illustrator · Photoshop · Canva</p>
-<a href="#">View Portfolio →</a>
+      <h3>🏆 Rotaract Club Visual Identity</h3>
+      <p>
+      Developed visual content and branding materials for Rotaract Club initiatives. 
+      Ensured a consistent and professional identity across campaigns and social platforms.
+      </p>
+      <p><strong>Highlights:</strong></p>
+      <ul>
+        <li>Campaign posters & awareness designs</li>
+        <li>Social media branding</li>
+        <li>Event promotional materials</li>
+      </ul>
+      <p><strong>Tools:</strong> Adobe Illustrator · Photoshop · Canva</p>
+      <a href="YOUR_PORTFOLIO_LINK_HERE">🔗 View Designs →</a>
     </td>
   </tr>
+
   <tr>
     <td width="50%">
-<h3>⚽ SLIIT Football Team Graphics</h3>
-<p>Created match-day graphics, team announcements, and social media content for the SLIIT Football Team. Elevated the team's digital presence through consistent, high-quality visual communication.</p>
-<p><strong>Tools:</strong> Adobe Illustrator · Photoshop · Canva</p>
-<a href="#">View Portfolio →</a>
+      <h3>⚽ SLIIT Football Team Graphics</h3>
+      <p>
+      Created match-day graphics, player announcements, and promotional visuals to enhance the team’s digital presence.
+      Focused on dynamic and sporty visual storytelling.
+      </p>
+      <p><strong>Highlights:</strong></p>
+      <ul>
+        <li>Match-day posters</li>
+        <li>Player announcements</li>
+        <li>Sports-themed social media content</li>
+      </ul>
+      <p><strong>Tools:</strong> Adobe Illustrator · Photoshop · Canva</p>
+      <a href="YOUR_PORTFOLIO_LINK_HERE">🔗 View Designs →</a>
     </td>
+
     <td width="50%">
-<h3>📊 Data Visualization Design</h3>
-<p>Publication-quality data visualizations for academic research, including custom Python-generated charts, graphical abstracts, and infographics that communicate complex statistical findings clearly.</p>
-<p><strong>Tools:</strong> Python · Matplotlib · Adobe Illustrator</p>
-<a href="#">View Portfolio →</a>
+      <h3>📊 Data Visualization Design</h3>
+      <p>
+      Designed publication-quality charts, infographics, and graphical abstracts for academic research. 
+      Focused on clarity, storytelling, and professional presentation of complex data.
+      </p>
+      <p><strong>Highlights:</strong></p>
+      <ul>
+        <li>Custom data visualizations</li>
+        <li>Graphical abstracts for research</li>
+        <li>Infographics for reports</li>
+      </ul>
+      <p><strong>Tools:</strong> Python · Matplotlib · Adobe Illustrator</p>
+      <a href="YOUR_PORTFOLIO_LINK_HERE">🔗 View Designs →</a>
     </td>
   </tr>
 </table>
 
----
+<br/>
 
+## 🌟 Featured Designs  
+
+<div align="center">
+
+<!-- Replace with your actual image links -->
+<img src="YOUR_IMAGE_LINK_1" width="45%" />
+<img src="YOUR_IMAGE_LINK_2" width="45%" />
+<br/><br/>
+<img src="YOUR_IMAGE_LINK_3" width="45%" />
+<img src="YOUR_IMAGE_LINK_4" width="45%" />
+
+</div>
+
+---
+---
 ## 📄 Resume
 
 <div align="center">
