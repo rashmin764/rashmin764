@@ -98,14 +98,14 @@
 <h3>🌿 Api Pura Society Designs</h3>
 <p>Created visual content for community-based society events focusing on engagement, clarity, and communication.</p>
 <p><strong>Focus:</strong> Community posters · Event promotion · Social media content</p>
-<a href="YOUR_LINK_HERE">View Project →</a>
+<a href="https://github.com/rashmin764/Design-Portfolio/tree/main/Api%20Paura">View Project →</a>
     </td>
 
   <td width="50%">
 <h3>📊 Research Visualizations</h3>
 <p>Designed graphical abstracts, charts, and infographics to communicate research findings in a clear and publication-ready format.</p>
 <p><strong>Focus:</strong> Data visualization · Infographics · Academic storytelling</p>
-<a href="YOUR_LINK_HERE">View Project →</a>
+<a href="https://github.com/rashmin764/Design-Portfolio/tree/main/Others/Research%20Visualization">View Project →</a>
     </td>
   </tr>
 
@@ -114,14 +114,14 @@
 <h3>🧩 Logo Designs</h3>
 <p>Created modern logo concepts for clubs, personal branding, and identity design projects.</p>
 <p><strong>Focus:</strong> Logo design · Brand identity · Minimal design</p>
-<a href="YOUR_LINK_HERE">View Project →</a>
+<a href="https://github.com/rashmin764/Design-Portfolio/tree/main/Logos">View Project →</a>
     </td>
 
   <td width="50%">
 <h3>✏️ Vector Designs</h3>
 <p>Designed scalable vector illustrations for branding, icons, and digital artwork.</p>
 <p><strong>Focus:</strong> Vector art · Illustration · Scalable graphics</p>
-<a href="YOUR_LINK_HERE">View Project →</a>
+<a href="https://github.com/rashmin764/Design-Portfolio/tree/main/Vector%20Projects">View Project →</a>
     </td>
   </tr>
 </table>
