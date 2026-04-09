@@ -82,14 +82,14 @@
 <h3>⚽ SLIIT Football Designs</h3>
 <p>Created match-day posters, player announcements, and promotional graphics for the SLIIT Football Team to enhance engagement and visual identity.</p>
 <p><strong>Focus:</strong> Sports branding · Social media posters · Event promotions</p>
-<a href="(https://github.com/rashmin764/Design-Portfolio/tree/main/SlIIT%20Football)">View Project →</a>
+<a href="https://github.com/rashmin764/Design-Portfolio/tree/main/SlIIT%20Football">View Project →</a>
     </td>
 
   <td width="50%">
 <h3>🏆 Rotaract Club of SLIIT Designs</h3>
 <p>Designed campaign posters, awareness materials, and event branding content ensuring consistent visual identity across Rotaract initiatives.</p>
 <p><strong>Focus:</strong> Campaign design · Awareness posters · Branding</p>
-<a href="YOUR_LINK_HERE">View Project →</a>
+<a href="https://github.com/rashmin764/Design-Portfolio/tree/main/Rotaract%20Volunteer%20Desings">View Project →</a>
     </td>
   </tr>
 
