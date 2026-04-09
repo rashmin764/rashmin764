@@ -74,68 +74,59 @@
 </table>
 
 ---
----
----
----
-## 🎨 Graphic Design Portfolio  
 
-<div align="center">
-A structured collection of my design work across branding, social media, and visual communication.
-</div>
+## 🎨 Graphic Design Projects
 
-<br/>
+<table>
+  <tr>
+    <td width="50%">
+<h3>⚽ SLIIT Football Designs</h3>
+<p>Created match-day posters, player announcements, and promotional graphics for the SLIIT Football Team to enhance social media engagement and team branding.</p>
+<p><strong>Focus:</strong> Sports branding · Social media posters · Event promotions</p>
+<a href="YOUR_LINK_HERE">View Project →</a>
+    </td>
 
-## 📁 Design Categories
+    <td width="50%">
+<h3>🏆 Rotaract Club of SLIIT Designs</h3>
+<p>Designed campaign posters, awareness materials, and event promotional content for Rotaract Club activities, ensuring consistent visual identity across initiatives.</p>
+<p><strong>Focus:</strong> Campaign design · Awareness posters · Branding consistency</p>
+<a href="YOUR_LINK_HERE">View Project →</a>
+    </td>
+  </tr>
 
----
+  <tr>
+    <td width="50%">
+<h3>🌿 Api Pura Society Designs</h3>
+<p>Developed creative posters and social media visuals for community-based society events and programs, focusing on clear communication and engagement.</p>
+<p><strong>Focus:</strong> Community design · Event posters · Social media content</p>
+<a href="YOUR_LINK_HERE">View Project →</a>
+    </td>
 
-### ⚽ SLIIT Football Designs  
-- Match-day posters  
-- Player announcement designs  
-- Team promotional graphics  
-📎 [View Files](YOUR_LINK_HERE)
+    <td width="50%">
+<h3>📊 Research Visualizations</h3>
+<p>Designed graphical abstracts, charts, and infographics to visually communicate academic research findings in a clear and publication-ready format.</p>
+<p><strong>Focus:</strong> Data storytelling · Infographics · Academic visualization</p>
+<a href="YOUR_LINK_HERE">View Project →</a>
+    </td>
+  </tr>
 
----
+  <tr>
+    <td width="50%">
+<h3>🧩 Logo Designs</h3>
+<p>Created modern and minimal logo designs for clubs, personal branding, and conceptual projects focusing on identity and brand recognition.</p>
+<p><strong>Focus:</strong> Logo design · Brand identity · Minimal design</p>
+<a href="YOUR_LINK_HERE">View Project →</a>
+    </td>
 
-### 🏆 Rotaract Club of SLIIT Designs  
-- Campaign posters  
-- Awareness graphics  
-- Event promotional materials  
-📎 [View Files](YOUR_LINK_HERE)
+    <td width="50%">
+<h3>✏️ Vector Designs</h3>
+<p>Designed scalable vector illustrations and digital artwork for branding, icons, and creative visual projects.</p>
+<p><strong>Focus:</strong> Vector art · Illustration · Scalable graphics</p>
+<a href="YOUR_LINK_HERE">View Project →</a>
+    </td>
+  </tr>
+</table> 
 
----
-
-### 🌿 Api Pura Society Designs  
-- Society event posters  
-- Awareness & community designs  
-- Social media creatives  
-📎 [View Files](YOUR_LINK_HERE)
-
----
-
-### 📊 Research Visualizations  
-- Graphical abstracts  
-- Data charts & infographics  
-- Academic visual storytelling  
-📎 [View Files](YOUR_LINK_HERE)
-
----
-
-### 🧩 Logo Designs  
-- Brand identity logos  
-- Club logos  
-- Minimal & modern logo concepts  
-📎 [View Files](YOUR_LINK_HERE)
-
----
-
-### ✏️ Vector Designs  
-- Vector illustrations  
-- Clean scalable artwork  
-- Icon & illustration sets  
-📎 [View Files](YOUR_LINK_HERE)
-
----
 ---
 
 ## 🤝 Let's Connect
