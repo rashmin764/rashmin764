@@ -74,20 +74,21 @@
 </table>
 
 ---
-
 ## 🎨 Graphic Design Projects
 
 <table>
   <tr>
     <td width="50%">
 <h3>⚽ SLIIT Football Designs</h3>
-<p>Created match-day posters, player announcements, and promotional graphics for the SLIIT Football Team to enhance social media engagement and team branding.</p>
+<p>Created match-day posters, player announcements, and promotional graphics for the SLIIT Football Team to enhance engagement and visual identity.</p>
 <p><strong>Focus:</strong> Sports branding · Social media posters · Event promotions</p>
 <a href="YOUR_LINK_HERE">View Project →</a>
     </td>
+
+  <td width="50%">
 <h3>🏆 Rotaract Club of SLIIT Designs</h3>
-<p>Designed campaign posters, awareness materials, and event promotional content for Rotaract Club activities, ensuring consistent visual identity across initiatives.</p>
-<p><strong>Focus:</strong> Campaign design · Awareness posters · Branding consistency</p>
+<p>Designed campaign posters, awareness materials, and event branding content ensuring consistent visual identity across Rotaract initiatives.</p>
+<p><strong>Focus:</strong> Campaign design · Awareness posters · Branding</p>
 <a href="YOUR_LINK_HERE">View Project →</a>
     </td>
   </tr>
@@ -95,13 +96,15 @@
   <tr>
     <td width="50%">
 <h3>🌿 Api Pura Society Designs</h3>
-<p>Developed creative posters and social media visuals for community-based society events and programs, focusing on clear communication and engagement.</p>
-<p><strong>Focus:</strong> Community design · Event posters · Social media content</p>
+<p>Created visual content for community-based society events focusing on engagement, clarity, and communication.</p>
+<p><strong>Focus:</strong> Community posters · Event promotion · Social media content</p>
 <a href="YOUR_LINK_HERE">View Project →</a>
     </td>
+
+  <td width="50%">
 <h3>📊 Research Visualizations</h3>
-<p>Designed graphical abstracts, charts, and infographics to visually communicate academic research findings in a clear and publication-ready format.</p>
-<p><strong>Focus:</strong> Data storytelling · Infographics · Academic visualization</p>
+<p>Designed graphical abstracts, charts, and infographics to communicate research findings in a clear and publication-ready format.</p>
+<p><strong>Focus:</strong> Data visualization · Infographics · Academic storytelling</p>
 <a href="YOUR_LINK_HERE">View Project →</a>
     </td>
   </tr>
@@ -109,19 +112,19 @@
   <tr>
     <td width="50%">
 <h3>🧩 Logo Designs</h3>
-<p>Created modern and minimal logo designs for clubs, personal branding, and conceptual projects focusing on identity and brand recognition.</p>
+<p>Created modern logo concepts for clubs, personal branding, and identity design projects.</p>
 <p><strong>Focus:</strong> Logo design · Brand identity · Minimal design</p>
 <a href="YOUR_LINK_HERE">View Project →</a>
     </td>
 
+  <td width="50%">
 <h3>✏️ Vector Designs</h3>
-<p>Designed scalable vector illustrations and digital artwork for branding, icons, and creative visual projects.</p>
+<p>Designed scalable vector illustrations for branding, icons, and digital artwork.</p>
 <p><strong>Focus:</strong> Vector art · Illustration · Scalable graphics</p>
 <a href="YOUR_LINK_HERE">View Project →</a>
     </td>
   </tr>
-</table> 
-
+</table>
 ---
 
 ## 🤝 Let's Connect
