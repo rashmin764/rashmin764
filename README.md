@@ -75,46 +75,46 @@
 
 ---
 ---
+---
 ## 🎨 Graphic Design Portfolio  
 
 <div align="center">
-Showcasing creative work focused on branding, marketing, and visual storytelling.
+A collection of my design work focused on branding, marketing, and visual storytelling.
 </div>
 
 <br/>
 
 <table>
   <tr>
-    <td align="center" width="50%">
-      <img src="YOUR_IMAGE_LINK_1" width="100%" />
-      <h3>🎯 University Club & Event Branding</h3>
-      <p>Posters, event promotions & social media creatives for university clubs.</p>
-      <a href="YOUR_PORTFOLIO_LINK_1">🔗 View More →</a>
-    </td>
-
-    <td align="center" width="50%">
-      <img src="YOUR_IMAGE_LINK_2" width="100%" />
-      <h3>🏆 Rotaract Club Designs</h3>
-      <p>Campaign visuals, awareness posters & social media branding.</p>
-      <a href="YOUR_PORTFOLIO_LINK_2">🔗 View More →</a>
-    </td>
+    <th align="left">Project</th>
+    <th align="left">Description</th>
+    <th align="center">Link</th>
   </tr>
 
   <tr>
-    <td align="center" width="50%">
-      <img src="YOUR_IMAGE_LINK_3" width="100%" />
-      <h3>⚽ Football Team Graphics</h3>
-      <p>Match posters, player announcements & sports creatives.</p>
-      <a href="YOUR_PORTFOLIO_LINK_3">🔗 View More →</a>
-    </td>
-
-    <td align="center" width="50%">
-      <img src="YOUR_IMAGE_LINK_4" width="100%" />
-      <h3>📊 Data Visualization Design</h3>
-      <p>Infographics, charts & graphical abstracts for research.</p>
-      <a href="YOUR_PORTFOLIO_LINK_4">🔗 View More →</a>
-    </td>
+    <td>🎯 University Club & Event Branding</td>
+    <td>Designed posters, social media creatives, and promotional materials for SLIIT clubs and events to improve engagement and visibility.</td>
+    <td align="center"><a href="YOUR_PORTFOLIO_LINK_1">View →</a></td>
   </tr>
+
+  <tr>
+    <td>🏆 Rotaract Club Visual Identity</td>
+    <td>Created campaign visuals, awareness posters, and branding materials ensuring consistent and professional identity across initiatives.</td>
+    <td align="center"><a href="YOUR_PORTFOLIO_LINK_2">View →</a></td>
+  </tr>
+
+  <tr>
+    <td>⚽ SLIIT Football Team Graphics</td>
+    <td>Developed match-day posters, player announcements, and sports-themed social media content to enhance digital presence.</td>
+    <td align="center"><a href="YOUR_PORTFOLIO_LINK_3">View →</a></td>
+  </tr>
+
+  <tr>
+    <td>📊 Data Visualization Design</td>
+    <td>Designed infographics, charts, and graphical abstracts to present complex data clearly for academic and research purposes.</td>
+    <td align="center"><a href="YOUR_PORTFOLIO_LINK_4">View →</a></td>
+  </tr>
+
 </table>
 
 ---
