@@ -74,6 +74,7 @@
 </table>
 
 ---
+---
 ## 🎨 Graphic Design Portfolio  
 
 <div align="center">
@@ -84,101 +85,39 @@ Showcasing creative work focused on branding, marketing, and visual storytelling
 
 <table>
   <tr>
-    <td width="50%">
+    <td align="center" width="50%">
+      <img src="YOUR_IMAGE_LINK_1" width="100%" />
       <h3>🎯 University Club & Event Branding</h3>
-      <p>
-      Designed posters, social media creatives, and promotional materials for university clubs and events at SLIIT. 
-      Improved event engagement and visibility through eye-catching and strategic visual design.
-      </p>
-      <p><strong>Highlights:</strong></p>
-      <ul>
-        <li>Event posters & digital campaigns</li>
-        <li>Social media content design</li>
-        <li>Consistent branding across events</li>
-      </ul>
-      <p><strong>Tools:</strong> Adobe Illustrator · Photoshop · Canva</p>
-      <a href="YOUR_PORTFOLIO_LINK_HERE">🔗 View Designs →</a>
+      <p>Posters, event promotions & social media creatives for university clubs.</p>
+      <a href="YOUR_PORTFOLIO_LINK_1">🔗 View More →</a>
     </td>
 
-    <td width="50%">
-      <h3>🏆 Rotaract Club Visual Identity</h3>
-      <p>
-      Developed visual content and branding materials for Rotaract Club initiatives. 
-      Ensured a consistent and professional identity across campaigns and social platforms.
-      </p>
-      <p><strong>Highlights:</strong></p>
-      <ul>
-        <li>Campaign posters & awareness designs</li>
-        <li>Social media branding</li>
-        <li>Event promotional materials</li>
-      </ul>
-      <p><strong>Tools:</strong> Adobe Illustrator · Photoshop · Canva</p>
-      <a href="YOUR_PORTFOLIO_LINK_HERE">🔗 View Designs →</a>
+    <td align="center" width="50%">
+      <img src="YOUR_IMAGE_LINK_2" width="100%" />
+      <h3>🏆 Rotaract Club Designs</h3>
+      <p>Campaign visuals, awareness posters & social media branding.</p>
+      <a href="YOUR_PORTFOLIO_LINK_2">🔗 View More →</a>
     </td>
   </tr>
 
   <tr>
-    <td width="50%">
-      <h3>⚽ SLIIT Football Team Graphics</h3>
-      <p>
-      Created match-day graphics, player announcements, and promotional visuals to enhance the team’s digital presence.
-      Focused on dynamic and sporty visual storytelling.
-      </p>
-      <p><strong>Highlights:</strong></p>
-      <ul>
-        <li>Match-day posters</li>
-        <li>Player announcements</li>
-        <li>Sports-themed social media content</li>
-      </ul>
-      <p><strong>Tools:</strong> Adobe Illustrator · Photoshop · Canva</p>
-      <a href="YOUR_PORTFOLIO_LINK_HERE">🔗 View Designs →</a>
+    <td align="center" width="50%">
+      <img src="YOUR_IMAGE_LINK_3" width="100%" />
+      <h3>⚽ Football Team Graphics</h3>
+      <p>Match posters, player announcements & sports creatives.</p>
+      <a href="YOUR_PORTFOLIO_LINK_3">🔗 View More →</a>
     </td>
 
-    <td width="50%">
+    <td align="center" width="50%">
+      <img src="YOUR_IMAGE_LINK_4" width="100%" />
       <h3>📊 Data Visualization Design</h3>
-      <p>
-      Designed publication-quality charts, infographics, and graphical abstracts for academic research. 
-      Focused on clarity, storytelling, and professional presentation of complex data.
-      </p>
-      <p><strong>Highlights:</strong></p>
-      <ul>
-        <li>Custom data visualizations</li>
-        <li>Graphical abstracts for research</li>
-        <li>Infographics for reports</li>
-      </ul>
-      <p><strong>Tools:</strong> Python · Matplotlib · Adobe Illustrator</p>
-      <a href="YOUR_PORTFOLIO_LINK_HERE">🔗 View Designs →</a>
+      <p>Infographics, charts & graphical abstracts for research.</p>
+      <a href="YOUR_PORTFOLIO_LINK_4">🔗 View More →</a>
     </td>
   </tr>
 </table>
 
-<br/>
-
-## 🌟 Featured Designs  
-
-<div align="center">
-
-<!-- Replace with your actual image links -->
-<img src="YOUR_IMAGE_LINK_1" width="45%" />
-<img src="YOUR_IMAGE_LINK_2" width="45%" />
-<br/><br/>
-<img src="YOUR_IMAGE_LINK_3" width="45%" />
-<img src="YOUR_IMAGE_LINK_4" width="45%" />
-
-</div>
-
 ---
----
-## 📄 Resume
-
-<div align="center">
-
-Interested in working together? Download my latest CV below!
-
-[![Download CV](https://img.shields.io/badge/⬇️%20Download%20My%20CV-1F4E79?style=for-the-badge&logo=microsoftword&logoColor=white)](https://github.com/rashmin764/rashmin764/blob/main/Yasiru_Rashmin_Resume.pdf)
-
-</div>
-
 ---
 
 ## 🤝 Let's Connect
