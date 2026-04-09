@@ -85,8 +85,6 @@
 <p><strong>Focus:</strong> Sports branding · Social media posters · Event promotions</p>
 <a href="YOUR_LINK_HERE">View Project →</a>
     </td>
-
-    <td width="50%">
 <h3>🏆 Rotaract Club of SLIIT Designs</h3>
 <p>Designed campaign posters, awareness materials, and event promotional content for Rotaract Club activities, ensuring consistent visual identity across initiatives.</p>
 <p><strong>Focus:</strong> Campaign design · Awareness posters · Branding consistency</p>
@@ -101,8 +99,6 @@
 <p><strong>Focus:</strong> Community design · Event posters · Social media content</p>
 <a href="YOUR_LINK_HERE">View Project →</a>
     </td>
-
-    <td width="50%">
 <h3>📊 Research Visualizations</h3>
 <p>Designed graphical abstracts, charts, and infographics to visually communicate academic research findings in a clear and publication-ready format.</p>
 <p><strong>Focus:</strong> Data storytelling · Infographics · Academic visualization</p>
@@ -118,7 +114,6 @@
 <a href="YOUR_LINK_HERE">View Project →</a>
     </td>
 
-    <td width="50%">
 <h3>✏️ Vector Designs</h3>
 <p>Designed scalable vector illustrations and digital artwork for branding, icons, and creative visual projects.</p>
 <p><strong>Focus:</strong> Vector art · Illustration · Scalable graphics</p>
