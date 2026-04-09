@@ -76,46 +76,64 @@
 ---
 ---
 ---
+---
 ## 🎨 Graphic Design Portfolio  
 
 <div align="center">
-A collection of my design work focused on branding, marketing, and visual storytelling.
+A structured collection of my design work across branding, social media, and visual communication.
 </div>
 
 <br/>
 
-<table>
-  <tr>
-    <th align="left">Project</th>
-    <th align="left">Description</th>
-    <th align="center">Link</th>
-  </tr>
+## 📁 Design Categories
 
-  <tr>
-    <td>🎯 University Club & Event Branding</td>
-    <td>Designed posters, social media creatives, and promotional materials for SLIIT clubs and events to improve engagement and visibility.</td>
-    <td align="center"><a href="YOUR_PORTFOLIO_LINK_1">View →</a></td>
-  </tr>
+---
 
-  <tr>
-    <td>🏆 Rotaract Club Visual Identity</td>
-    <td>Created campaign visuals, awareness posters, and branding materials ensuring consistent and professional identity across initiatives.</td>
-    <td align="center"><a href="YOUR_PORTFOLIO_LINK_2">View →</a></td>
-  </tr>
+### ⚽ SLIIT Football Designs  
+- Match-day posters  
+- Player announcement designs  
+- Team promotional graphics  
+📎 [View Files](YOUR_LINK_HERE)
 
-  <tr>
-    <td>⚽ SLIIT Football Team Graphics</td>
-    <td>Developed match-day posters, player announcements, and sports-themed social media content to enhance digital presence.</td>
-    <td align="center"><a href="YOUR_PORTFOLIO_LINK_3">View →</a></td>
-  </tr>
+---
 
-  <tr>
-    <td>📊 Data Visualization Design</td>
-    <td>Designed infographics, charts, and graphical abstracts to present complex data clearly for academic and research purposes.</td>
-    <td align="center"><a href="YOUR_PORTFOLIO_LINK_4">View →</a></td>
-  </tr>
+### 🏆 Rotaract Club of SLIIT Designs  
+- Campaign posters  
+- Awareness graphics  
+- Event promotional materials  
+📎 [View Files](YOUR_LINK_HERE)
 
-</table>
+---
+
+### 🌿 Api Pura Society Designs  
+- Society event posters  
+- Awareness & community designs  
+- Social media creatives  
+📎 [View Files](YOUR_LINK_HERE)
+
+---
+
+### 📊 Research Visualizations  
+- Graphical abstracts  
+- Data charts & infographics  
+- Academic visual storytelling  
+📎 [View Files](YOUR_LINK_HERE)
+
+---
+
+### 🧩 Logo Designs  
+- Brand identity logos  
+- Club logos  
+- Minimal & modern logo concepts  
+📎 [View Files](YOUR_LINK_HERE)
+
+---
+
+### ✏️ Vector Designs  
+- Vector illustrations  
+- Clean scalable artwork  
+- Icon & illustration sets  
+📎 [View Files](YOUR_LINK_HERE)
 
 ---
 ---
