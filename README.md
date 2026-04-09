@@ -82,7 +82,7 @@
 <h3>⚽ SLIIT Football Designs</h3>
 <p>Created match-day posters, player announcements, and promotional graphics for the SLIIT Football Team to enhance engagement and visual identity.</p>
 <p><strong>Focus:</strong> Sports branding · Social media posters · Event promotions</p>
-<a href="YOUR_LINK_HERE">View Project →</a>
+<a href="[YOUR_LINK_HERE](https://github.com/rashmin764/Design-Portfolio/tree/main/SlIIT%20Football)">View Project →</a>
     </td>
 
   <td width="50%">
